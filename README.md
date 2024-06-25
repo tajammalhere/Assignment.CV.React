@@ -1,10 +1,13 @@
-# Personal Portfolio Website
+# CV
 
-![Screenshot](Screenshot_25-6-2024_23489_localhost.jpeg)
-<a href="https://tajammalcv.surge.sh/" target="_blank">check</a>
+**See the screenshot at the end**
+
+
+check the surge deployed version of this CV 
+<a href="https://tajammalcv.surge.sh/" target="_blank">Here</a>
 
 ## Introduction
-This is a personal portfolio website built using ReactJS. It showcases my professional skills, experience, education, and portfolio projects. The design is inspired by modern UI/UX principles to provide a clean and professional look.
+This is a CV website built using ReactJS. It showcases my professional skills, experience, education, and portfolio projects. The design is inspired by modern UI/UX principles to provide a clean and professional look.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -69,7 +72,6 @@ This is a personal portfolio website built using ReactJS. It showcases my profes
     ```
 
 ## Screenshots
-Include screenshots of the website here. For example:
 
 ![Screenshot](Screenshot_25-6-2024_23489_localhost.jpeg)
 
