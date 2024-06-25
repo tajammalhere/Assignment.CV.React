@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-![Screenshot](path/to/your/screenshot.png)
+![Screenshot](Screenshot_25-6-2024_23489_localhost.jpeg)
 
 ## Introduction
 This is a personal portfolio website built using ReactJS. It showcases my professional skills, experience, education, and portfolio projects. The design is inspired by modern UI/UX principles to provide a clean and professional look.
@@ -70,9 +70,7 @@ This is a personal portfolio website built using ReactJS. It showcases my profes
 ## Screenshots
 Include screenshots of the website here. For example:
 
-![Intro Section](path/to/screenshot-intro.png)
-![About Me Section](path/to/screenshot-aboutme.png)
-![Professional Skills Section](path/to/screenshot-skills.png)
+![Screenshot](Screenshot_25-6-2024_23489_localhost.jpeg)
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
