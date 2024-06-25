@@ -1,7 +1,7 @@
 # Personal Portfolio Website
 
 ![Screenshot](Screenshot_25-6-2024_23489_localhost.jpeg)
-[Check the deployed website](tajammalcv.surge.sh)
+<a href="https://tajammalcv.surge.sh/" target="_blank">check</a>
 
 ## Introduction
 This is a personal portfolio website built using ReactJS. It showcases my professional skills, experience, education, and portfolio projects. The design is inspired by modern UI/UX principles to provide a clean and professional look.
@@ -55,7 +55,7 @@ This is a personal portfolio website built using ReactJS. It showcases my profes
 ## Usage
 - **Customize Components**: Edit the components in the `src/components` directory to update content and styling.
 - **Add Images**: Place your images in the `src/images` directory and update the import paths accordingly.
-- **Deployment**: Follow the steps in the [Deployment](tajammalcv.surge.sh) section to deploy your site using Surge.
+- **Deployment**: Follow the steps in the [Deployment](#) section to deploy your site using Surge.
 
 ## Deployment
 1. **Build the project**
